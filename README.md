@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anderson</h1>
 <h3 align="center">A passionate backend developer from Brazil</h3>
 
-- 🌱 I’m currently learning **Node**
+- 🌱 I’m currently learning **Node.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/andersonmrodrigues?tab=repositories](https://github.com/andersonmrodrigues?tab=repositories)
 
