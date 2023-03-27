@@ -20,7 +20,7 @@ Here are some of my recent projects:
 
 ## 📫 Contact
 
-- 📧 Email: maikbru@gmail.com
+- 📧 Email: andersonmaikrodrigues@gmail.com
 - 🌐 LinkedIn: https://www.linkedin.com/in/andersonmaikrodrigues/
 
 Feel free to reach out to me if you have any questions.
