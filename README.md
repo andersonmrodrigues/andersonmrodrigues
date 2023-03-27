@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-My name is Anderson Rodrigues, and I am a 🧑‍💻 Java programmer with a degree in Computer Science and a background in IT technician. I have experience with 🔥 JavaScript, 🚀 Node.js, 📱 Flutter, and ☁️ AWS.
+My name is Anderson Rodrigues, and I am a 🧑‍💻 Java programmer with a degree in Computer Science and a background in IT technician. I have experience with Java ☕️, 🔥 JavaScript, 🚀 Node.js, 📱 Flutter, and ☁️ AWS.
 
 <!-- ## 💼 Projects
 
