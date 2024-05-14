@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-My name is Anderson Rodrigues, and I am a 🧑‍💻 Java programmer with a degree in Computer Science and a background in IT technician. I have experience with Java ☕️, 🔥 JavaScript, 🚀 Node.js, 📱 Flutter, and ☁️ AWS.
+I'm Anderson Rodrigues, a Software Engineer with over 8 years of experience. I've progressed from intern to regional tech lead, successfully launching 15+ projects in CRM, ERP, LMS, education, quality assurance, third-party integrations, banking, and automotive. I specialize in Java ☕️, monoliths, microservices, event-driven architecture, and cloud services ☁️, and have proficiency in JavaScript 🔥, Node.js 🚀, and Flutter 📱. My innovative solutions have reduced manual task time by 80% and stabilized 90% of projects facing operational challenges.
 
 <!-- ## 💼 Projects
 
