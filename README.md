@@ -1,6 +1,6 @@
 # Anderson Rodrigues
 
-**Senior Software Engineer | Distributed Systems | Fintech | AI Engineering**
+**Senior Software Engineer | Distributed Systems | Java Specialist | AI Engineering**
 
 Senior Software Engineer with 10+ years of experience building backend and distributed systems. Currently working at Nubank on credit and payment products, with a focus on reliability, financial correctness, and scalable architecture.
 
