@@ -1,26 +1,15 @@
-# Hi there! 👋
+# Anderson Rodrigues
 
-I'm Anderson Rodrigues, a Software Engineer with over 8 years of experience. I've progressed from intern to regional tech lead, successfully launching 15+ projects in CRM, ERP, LMS, education, quality assurance, third-party integrations, banking, and automotive. I specialize in Java ☕️, monoliths, microservices, event-driven architecture, and cloud services ☁️, and have proficiency in JavaScript 🔥, Node.js 🚀, and Flutter 📱. My innovative solutions have reduced manual task time by 80% and stabilized 90% of projects facing operational challenges.
+**Senior Software Engineer | Distributed Systems | Fintech | AI Engineering**
 
-<!-- ## 💼 Projects
+Senior Software Engineer with 10+ years of experience building backend and distributed systems. Currently working at Nubank on credit and payment products, with a focus on reliability, financial correctness, and scalable architecture.
 
-Here are some of my recent projects:
+I also build AI-assisted engineering tools and open-source developer tools. My background includes Clojure, Java, TypeScript, AWS, event-driven systems, and technical leadership.
 
-- [Project Name 1](link to project): A web development project using Spring Boot.
-- [Project Name 2](link to project): A mobile app developed with Flutter.
-- [Project Name 3](link to project): An AWS Lambda integration project. -->
+## Featured project
 
-## 🚀 Skills
+[Paved](https://github.com/andersonmrodrigues/paved) — Engineering workflows and verification for coding agents.
 
-- Java ☕️
-- JavaScript 🔥
-- Node.js 🚀
-- Flutter 📱
-- AWS ☁️
+## Contact
 
-## 📫 Contact
-
-- 📧 Email: andersonmaikrodrigues@gmail.com
-- 🌐 LinkedIn: https://www.linkedin.com/in/andersonmaikrodrigues/
-
-Feel free to reach out to me if you have any questions.
+[LinkedIn](https://www.linkedin.com/in/andersonmaikrodrigues/) · [Email](mailto:andersonmaikrodrigues@gmail.com)
